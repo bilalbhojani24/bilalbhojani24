@@ -5,13 +5,20 @@ Curious, self-motivated and enthusiastic, I am interested in IT and everything i
 
 # Skills
 
- - HTML5
- - CSS3
- - BootStrap
- - JavaScript
- - JQuery
- - ReactJS
- - Firebase 
+ :point_right: HTML5
+ 
+ :point_right: CSS3 	
+ 
+ :point_right: BootStrap
+ 
+ :point_right: JavaScript
+ 
+ :point_right: JQuery
+ 
+ :point_right: ReactJS
+ 
+ :point_right: Firebase 
+ 
 
 > Currently, i am learning and exploring Node JS, MongoDB and Express JS
 

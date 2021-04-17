@@ -21,7 +21,7 @@ UI Development | Frontend Architecture | Browser Development Tools | Testing/Deb
 5. Enzyme & Jest for testing
 
 ### Databases
-1. Firebase (real-time D=database & cloud firestore)
+1. Firebase (real-time database & cloud firestore)
 2. SQL 
 
 ### Tools

@@ -1,8 +1,7 @@
 # React Developer | Frontend Developer | MERN Stack Developer
 
 ### Summary
-To obtain a responsible and demanding Front-end Developer role with a company where I can apply my technical expertise to the creation and implementation of new ideas, thereby contributing to the company's growth.
-Self-motivated and aspiring frontend developer with extensive knowledge and experience in JavaScript, React JS, Bootstrap, HTML, CSS, and mobile responsive website creation, as well as strong coding skills.
+Innovative, creative, and a proven team player with a Tech Degree in Front-end Development and 1.5 years experience of building, developing, and managing websites, applications and programs for various organizations. Frontend Developer with hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer.
 
 ### Key Skills
 UI Development | Frontend Architecture | Browser Development Tools | Client handling | Project Delivery | Wireframe and Design
@@ -15,9 +14,10 @@ UI Development | Frontend Architecture | Browser Development Tools | Client hand
 
 ## Frameworks
 1. React JS
-2. Next JS
-3. Bootstrap
-4. Webpack & Babel
+2. Bootstrap & Talwind CSS
+3. Next JS
+4. Material UI, Core UI & Formik + YUP
+5. Webpack & Babel
 
 ## Backend
 1. Node JS
@@ -26,7 +26,6 @@ UI Development | Frontend Architecture | Browser Development Tools | Client hand
 ### Databases
 1. Firebase (real-time database & cloud firestore)
 2. Mongo DB
-3. SQL 
 
 ### Tools
 1. Git / Github
